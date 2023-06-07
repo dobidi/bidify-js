@@ -1,0 +1,9 @@
+{
+  "name": "bidify",
+  "version": "0.0.1",
+  "description": "Add bidirectional text support to any HTML partials",
+  "main": "index.js",
+  "repository": "https://github.com/dobidi/bidify-js",
+  "author": "Mostafa Ahangarha",
+  "license": "LGPL-3.0-or-later"
+}
